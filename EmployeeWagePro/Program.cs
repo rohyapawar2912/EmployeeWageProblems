@@ -10,8 +10,8 @@ namespace EmployeeWagePro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to EmployeeWage Computation Problem");
-            //UC2-EmployeeWages
+            //UC3:- Add
+            //Part time Employee Wage 
             EmployeeAttendance.EmployeeWage();
             Console.ReadLine();
         }
