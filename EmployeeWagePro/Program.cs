@@ -10,9 +10,8 @@ namespace EmployeeWagePro
     {
         static void Main(string[] args)
         {
-            //UC3:- Add
-            //Part time Employee Wage 
-            EmployeeAttendance.EmployeeWage();
+            //UC4:- EmployeeWages using Switch case
+            EmployeeAttendance.EmployeeWagesCalculation();
             Console.ReadLine();
         }
     }
